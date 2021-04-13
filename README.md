@@ -6,4 +6,4 @@ This file fine-tunes a pre-trained BART language model on a million top posts fr
 
 See [@BartHorror on Twitter](https://twitter.com/BartHorror) for more examples of this model in action!
 
-Created by [Sheridan Feucht](https://www.linkedin.com/in/sheridan-feucht/)
+Created by Sheridan Feucht [(LinkedIn)](https://www.linkedin.com/in/sheridan-feucht/)
