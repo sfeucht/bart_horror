@@ -6,4 +6,4 @@ All that's in this repo is a [colab notebook](https://colab.research.google.com/
 
 See [@BartHorror on Twitter](https://twitter.com/BartHorror) for more examples of this model in action!
 
-Created by Sheridan Feucht [(LinkedIn)](https://www.linkedin.com/in/sheridan-feucht/)
+Created by Sheridan Feucht - [LinkedIn](https://www.linkedin.com/in/sheridan-feucht/)
